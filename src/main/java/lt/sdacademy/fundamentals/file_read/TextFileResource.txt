@@ -1,0 +1,3 @@
+Labas rytas!
+Mano vardas Edvinas,
+Mokomės skaityti duomenis iš failo :)
